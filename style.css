@@ -172,3 +172,50 @@ button{
     color: #1F2937;
     font-weight: 800;
 }
+/*quote by thor portion ends here
+CALL TO ACTION POPUP starts here*/
+
+.c2awhite{
+    display: flex;
+    height: 360px;
+    align-items: center;
+    justify-content: center;
+}
+.c2ablue{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   background-color: #3882F6;
+   border-radius: 9px;
+    width: 800px;
+    padding: 16px;
+    height: 100px;
+}
+.c2abutton{
+    border: 2px solid #E5E7EB;
+    border-radius: 9px;
+    font-weight: bold;
+}
+.c2atext #up{
+    color: #E5E7EB;
+    font-size: 22px;
+    font-weight: 800;
+}
+.c2atext #down{
+    color: lightgray;
+    font-weight: 200;
+}
+
+
+.footer{
+    background-color: #1F2937;
+    margin-left: 48px;
+    margin-right: 48px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: auto;
+    color: #E5E7EB;
+}
